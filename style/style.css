@@ -1,0 +1,39 @@
+.div.pointer {
+  cursor: pointer;
+}
+
+.navbar {
+  background-color: #f8f9fa;
+}
+
+.caption {
+  padding-top: 40px
+}
+
+/* .jumbotron {
+  float: left;
+
+} */
+
+.compareimage {
+  width: 100%;
+  height: auto;
+  margin-bottom: 30px;
+ }
+
+.jumboimage {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  float: left;
+  margin-right: 50px;
+ }
+
+@media (max-width: 992px) {
+    .bg-white{
+     background-color: #17a2b8 !important;
+    }
+    .navbar-light {
+    background-color: #17a2b8 !important;
+    }
+ }
